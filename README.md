@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thecodemancer99
 - 👀 I’m interested in creating digital wizardry through code
-- 🌱 I’m currently learning C++(Advanced)
 - 📫 How to reach me Email: ayush.srivastava@intimetec.com
 
 <!---
